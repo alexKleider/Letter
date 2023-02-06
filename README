@@ -1,0 +1,7 @@
+
+# File: ~/Git/Letter/README
+
+    Attempt to use sqlite3 to maintain a data base supporting
+    letter writing utilities.  
+    It's a scaled down version of what I developed under
+    Club/Utilities (which used csv) to send out mailings.
