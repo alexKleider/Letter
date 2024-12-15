@@ -1,5 +1,5 @@
 -- File: create_db.sql
--- Suggest use contacts.db
+-- Suggest use contacts.sqldb
 
 DROP TABLE IF EXISTS Contacts;
 CREATE TABLE People (

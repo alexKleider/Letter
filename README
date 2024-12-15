@@ -5,3 +5,8 @@
     letter writing utilities.  
     It's a scaled down version of what I developed under
     Club/Utilities (which used csv) to send out mailings.
+
+Currently (as of Sun 15 Dec 2024 02:28:15 PM PST) not working!
+A "Data" directory is excluded from the repository but can be
+restored by decrypting and extracting the "tar.gz.gpg" file.
+

@@ -4,7 +4,7 @@
 
 """
 A module to support main.py (prepare mailing utility.)
-(A slimmed down version of content.py)
+(A slimmed down version of content.py (found in club utils))
 
 A number of 'dict's are being used:
     letter_bodies
